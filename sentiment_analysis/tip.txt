@@ -1,0 +1,6 @@
+1.run gen_word F1 and get "words"
+words replace 'space' with '/'£¬replace '&&&&&' with 'space'
+2. run cut_jieba,get "test"
+test transform into 'ascll' form
+3. run test_sentiment and get "dic"
+dic replace 'space' with 'tab'£¬and put it into data.xlsx as input for matlab
