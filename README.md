@@ -7,15 +7,18 @@ Neural Networks with Sentiment Analysis](https://arxiv.org/abs/1705.02447) by Yi
 
 ### Dependencies
 python 2.7 for sentiment analysis
+
 matlab for stock prediction
+
 please add the folder "stock_pre_tool" to the path of the matlab
 
-## Data set
+### Dependencies
 sentiment analysis/data: orginal comments with label
 
 stock_pre_tool/stock_price.xlsx: orginal prices for stocks
 
-##Quick start
+
+### Quick start
 
 EMM-for-stock-prediction/stock_pre_tool/total_analysis/ get the accuracy from main.m. The pre-processing data is already in the folder named with its stock number.
 
