@@ -12,7 +12,7 @@ matlab for stock prediction
 
 please add the folder "stock_pre_tool" to the path of the matlab
 
-### Dependencies
+### Data
 sentiment analysis/data: orginal comments with label
 
 stock_pre_tool/stock_price.xlsx: orginal prices for stocks
